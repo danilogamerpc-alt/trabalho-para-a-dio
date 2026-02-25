@@ -1,8 +1,13 @@
-# trabalho-para-a-dio
 # 📘 Miniguia: O Comportamento Atrás do Dinheiro
 > **Projeto de Aprendizagem Ativa com IA Generativa (NotebookLM)**
 
-Este repositório contém o resultado de um desafio de curadoria e síntese focado em **Psicologia Financeira**. O objetivo foi utilizar ferramentas de IA para transformar fontes teóricas (Kahneman, Housel, Kiyosaki) em um sistema prático de suporte à decisão.
+Este repositório contém o resultado de um desafio de curadoria e síntese focado em **Psicologia Financeira**. O objetivo foi utilizar ferramentas de IA para transformar fontes teóricas em um sistema prático de suporte à decisão.
+
+---
+
+## 🔗 Acesso Rápido
+Você pode acessar o caderno interativo original com todas as fontes e interações aqui:
+👉 **[NotebookLM - Psicologia Financeira](https://notebooklm.google.com/notebook/6cfa652d-fdf1-48aa-9771-8afff96e519a)**
 
 ---
 
