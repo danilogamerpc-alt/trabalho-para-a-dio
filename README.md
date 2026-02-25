@@ -61,3 +61,20 @@ Estes prompts podem ser utilizados no **NotebookLM** ou em outras IAs para anál
 ### 🔍 Filtro de Ruído
 ```text
 Analise esta notícia financeira e identifique o que é um padrão replicável e o que pode ser atribuído puramente a Sorte ou Risco.
+
+```
+
+⚖️ Simulação de Debate
+
+Atue como meu Sistema 2 crítico. Analise minha ideia de investimento e liste todos os vieses e informações ausentes que estou ignorando.
+
+💡 Extração de Sabedoria
+
+Com base nos princípios de Housel e Kiyosaki, transforme este relatório técnico em uma explicação focada em fluxo de ativos e liberdade de tempo
+
+
+
+###
+
+🏁 6. Conclusão
+Este projeto utilizou a IA Generativa como um mecanismo de aprendizagem ativa. Ao confrontar conceitos de diferentes autores, construímos uma ponte entre a teoria acadêmica e a prática comportamental, transformando o NotebookLM em um tutor personalizado.
