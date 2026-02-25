@@ -65,14 +65,15 @@ Analise esta notícia financeira e identifique o que é um padrão replicável e
 ```
 
 ⚖️ Simulação de Debate
-
+```text
 Atue como meu Sistema 2 crítico. Analise minha ideia de investimento e liste todos os vieses e informações ausentes que estou ignorando.
 
+```
 💡 Extração de Sabedoria
-
+```text
 Com base nos princípios de Housel e Kiyosaki, transforme este relatório técnico em uma explicação focada em fluxo de ativos e liberdade de tempo
 
-
+````
 
 ###
 
